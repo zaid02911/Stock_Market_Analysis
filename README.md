@@ -7,7 +7,7 @@ This Python project analyzes historical Tesla stock data and generates visualiza
 ## 📂 Files Included
 
 - `Stock Market Analysis.py` – The main script that loads the dataset and generates all visualizations.
-- `TSLA_stock_data.csv` – Tesla stock data file (you must supply this).
+- `TSLA_stock_data.csv` – Tesla stock data file .
 - `moving_averages.png` – Line plot of close price with 20-day and 50-day moving averages.
 - `candlestick.png` – Candlestick chart showing OHLC price data.
 - `volatility.png` – Line chart showing daily percent changes (volatility).
