@@ -1,0 +1,14 @@
+2.1 Stock Market Analysis
+Skills: Pandas (time series), Matplotlib (candlestick plots).
+
+Project Idea: Analyze stock prices (e.g., Tesla, Apple).
+
+Deliverables:
+
+Calculate moving averages.
+
+Identify trends and volatility.
+
+Visualize stock performance.
+
+Dataset: Yahoo Finance (via yfinance Python library).
